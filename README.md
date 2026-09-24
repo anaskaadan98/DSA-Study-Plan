@@ -2,7 +2,7 @@
 
 - Step 1: Learn the basics
     - Step 1.1: Things to Know in C++/Java/Python or any language
-        - [ ]  [[User Input - Output]]
+        - [X]  User Input - Output
         - [ ]  Data Types
         - [ ]  If Else statements
         - [ ]  Switch Statement
